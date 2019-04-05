@@ -1,0 +1,35 @@
+{
+  "alumnos": [
+    {
+    "nombre": "juan",
+    "apellido": "muguerza",
+    "legajo": "32133",
+    "fecha_ingreso": "20050301105300",
+    "materias": [ { "nombre": "Analisis Matematico I",
+                "regular" : true,
+                "aprobada" : true,
+                "calificacion" : 6 },
+                { "nombre": "Analisis Matematico II",
+                "regular" : true,
+                "aprobada" : false,
+                "calificacion" : null  
+                }
+                ]
+    },
+    {
+    "nombre": "pedro",
+    "apellido": "gomez",
+    "legajo": "11113",
+    "fecha_ingreso": "20170201105300",
+    "materias": [ { "nombre": "Analisis Matematico I",
+                "regular" : true,
+                "aprobada" : true,
+                "calificacion" : 8 },
+                { "nombre": "Analisis Matematico II",
+                "regular" : true,
+                "aprobada" : true,
+                "calificacion" : 9 }
+                ]
+    }
+  ]
+} 
